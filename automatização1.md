@@ -1,4 +1,4 @@
-Processos para Automatização de Processos:
+5 Passos Importantes para Automatização de Processos:
 
 1. Faça um mapeamento organizacional:
 O primeiro passo é fazer uma verificação dos processos da organização para ter uma visão sistêmica da operação e identificação de possíveis gargalos, atividades duplicadas ou que não agregam valor.
