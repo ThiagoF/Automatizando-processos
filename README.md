@@ -1,4 +1,4 @@
-Sistemas integrados e automatização de processos
+Sistemas integrados e automatização de processos.
 
 Integre facilmente outras aplicações, utilizando diferentes tecnologias.
 Gestão por processos e melhoria contínua
